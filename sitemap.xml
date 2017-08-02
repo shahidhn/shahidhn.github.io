@@ -8,7 +8,12 @@
 
 
   <url>
-    <loc>/pages/welcome.html</loc>
+    <loc>/pages/shahid.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>/pages/projects.html</loc>
     <priority>1.0</priority>
   </url>
 
