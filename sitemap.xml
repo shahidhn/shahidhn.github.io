@@ -13,6 +13,11 @@
   </url>
 
   <url>
+    <loc>/pages/interests.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>/pages/projects.html</loc>
     <priority>1.0</priority>
   </url>
