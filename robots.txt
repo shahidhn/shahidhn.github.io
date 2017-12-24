@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: ./sitemap.xml
+Sitemap: http://shahidhn.github.io/sitemap.xml
