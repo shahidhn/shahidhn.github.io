@@ -54,8 +54,7 @@ html {
 }
 @media (min-width: 38em) {
   html {
-    /*font-size: 20px;*/
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
@@ -118,19 +117,14 @@ strong {
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
-  /*margin-bottom: 1rem;*/
-  margin-bottom: 0;
+  margin-bottom: 1rem;
 }
 
 dt {
   font-weight: bold;
 }
 dd {
-  /*
   margin-bottom: .5rem;
-  margin-bottom: 0;
-  */
-  margin: 0;
 }
 
 /* Misc */
